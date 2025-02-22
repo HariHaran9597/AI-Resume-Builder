@@ -74,6 +74,16 @@ source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
+## Screenshots
+
+![Screenshot 2025-02-22 004749](https://github.com/user-attachments/assets/4833c72c-2bae-4f0d-aa43-f4817ea1abfd)
+
+![Screenshot 2025-02-21 233754](https://github.com/user-attachments/assets/4452e078-1b16-4afe-9cd1-5dcb54b911e4)
+
+![Screenshot 2025-02-22 004804](https://github.com/user-attachments/assets/3a3a393e-386c-4bf4-a09a-d8652f093a4c)
+
+![Screenshot 2025-02-22 004813](https://github.com/user-attachments/assets/3db4139e-67d0-43cd-a770-1ed7f3b0b687)
+
 ## Contributing
 
 1. Fork the repository
